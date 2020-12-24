@@ -2,7 +2,7 @@
 
 1) for start app install library from requirement.txt
 
-2) create virtualenv
+2) create virtualenv    
 $ virtualenv venv
 $ . venv/bin/activate
 
